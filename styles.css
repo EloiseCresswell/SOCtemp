@@ -111,9 +111,10 @@ body {
 }
 
 .company-category {
-  font-size: 0.7rem;
-  color: var(--orange);
+  font-size: 0.8rem;
+  color: var(--very-dark-blue);
   letter-spacing: 0.1rem;
+  text-transform: uppercase;
 }
 
 .product-description {
